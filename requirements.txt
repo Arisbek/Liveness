@@ -1,0 +1,15 @@
+requests
+
+redis
+
+fastapi[standard]
+futures
+python-dotenv
+
+SQLAlchemy
+psycopg2
+python-jose[cryptography]
+passlib
+alembic
+pytest
+bcrypt
